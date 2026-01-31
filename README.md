@@ -1,7 +1,9 @@
 # Privacy Policy
 
 **App Name:** Dual Number Calculator
+
 **Developer Contact Email:** [mdinoshc@gmail.com](mailto:mdinoshc@gmail.com)
+
 **Effective Date:** January 31, 2026
 
 ---
